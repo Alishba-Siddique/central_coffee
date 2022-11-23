@@ -1,2 +1,2 @@
 # central_coffee
-##One-Page Responsive Coffee Shop Website
+## One-Page Responsive Coffee Shop Website
